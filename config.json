@@ -1,0 +1,5 @@
+{
+  "database": {
+    "url": "postgresql://prisma:prisma@localhost:5432/prisma?schema=public"
+  }
+}
